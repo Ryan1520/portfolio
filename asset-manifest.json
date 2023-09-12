@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.e018d59e.css",
-    "main.js": "/portfolio/static/js/main.0b2bf530.js",
-    "static/js/395.c62f89c8.chunk.js": "/portfolio/static/js/395.c62f89c8.chunk.js",
+    "main.js": "/portfolio/static/js/main.45d111a2.js",
+    "static/js/395.f8034f9d.chunk.js": "/portfolio/static/js/395.f8034f9d.chunk.js",
     "static/media/cartoon-photo.jpg": "/portfolio/static/media/cartoon-photo.c8d67ea198f37bee27aa.jpg",
     "static/media/newsboard.png": "/portfolio/static/media/newsboard.c034239c5835dd426803.png",
     "static/media/home.png": "/portfolio/static/media/home.d227cff65aa9383e229c.png",
@@ -39,13 +39,13 @@
     "static/media/styled-logo.png": "/portfolio/static/media/styled-logo.76b9df72acc5afb0c385.png",
     "static/media/ionic-logo.png": "/portfolio/static/media/ionic-logo.22a60912c16a92a145d4.png",
     "static/media/redux-logo.png": "/portfolio/static/media/redux-logo.b3b939c66aecf7d53967.png",
-    "static/media/test.md": "/portfolio/static/media/test.775860a51e23da25e50f.md",
+    "static/media/test.md": "/portfolio/static/media/test.1d1f271c7b9739ac8426.md",
     "index.html": "/portfolio/index.html",
     "main.e018d59e.css.map": "/portfolio/static/css/main.e018d59e.css.map",
-    "main.0b2bf530.js.map": "/portfolio/static/js/main.0b2bf530.js.map"
+    "main.45d111a2.js.map": "/portfolio/static/js/main.45d111a2.js.map"
   },
   "entrypoints": [
     "static/css/main.e018d59e.css",
-    "static/js/main.0b2bf530.js"
+    "static/js/main.45d111a2.js"
   ]
 }

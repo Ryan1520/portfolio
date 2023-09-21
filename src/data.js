@@ -326,14 +326,24 @@ export const ReactProjects = [
 
 export const JavascriptProjects = [
   {
-    title: 'QuickNote',
+    title: 'My Youtube Video Collection',
     img: [
-
+      'js_images/youtube_collection.gif'
     ],
     desc: [
-
+      'I came across this idea from Youtube and tried to make it and develop it from original version. This app help me marking the most noticable videos on Youtube as well as sort them base on category. Technically, this project is to practice HTML, CSS, DOM, JS programming, Local Storage and MVC model mindset. (demo by GIF on the left)'
     ],
-    github: ''
+    github: 'https://github.com/Ryan1520/Youtube-video-collection'
+  },
+  {
+    title: 'QuickNote App',
+    img: [
+      'js_images/note_app.gif'
+    ],
+    desc: [
+      "This is a simple app that allow me take some quick note that don't require any complex media form, only text. However, this project teach me a new method to create structure for a Vanilla JS project. It is organized by typical MVC model and OOP programming which really take full avantage of JavaScript's power. (demo by GIF on the left)"
+    ],
+    github: 'https://github.com/Ryan1520/todo_list'
   },
 ]
 

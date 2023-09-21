@@ -32,6 +32,7 @@ const SkillF = styled.div`
   width: 100%;
   min-height: 150px;
   padding: 10px 20px;
+  border-radius: 10px;
   display: flex;
   align-items: center;
   background-color: #57C5B6;
@@ -61,6 +62,7 @@ const SkillB = styled.div`
   width: 100%;
   min-height: 150px;
   padding: 10px 20px;
+  border-radius: 10px;
   display: flex;
   align-items: center;
   gap: 20px;
@@ -90,6 +92,7 @@ const SkillL = styled.div`
   width: 100%;
   min-height: 150px;
   padding: 10px 20px;
+  border-radius: 10px;
   display: flex;
   align-items: center;
   gap: 40px;
